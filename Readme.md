@@ -38,7 +38,8 @@ Enjoy **Teaching** Others 🎓
 **\*** Traing Bots **\***
 
 - [Raydium Sniper Bot](https://github.com/sol.genius.dev/solana-raydium-sniper-bot)
-- [Pump.fun Sniper Bot](https://github.com/sol.genius.dev/solana-pumpfun-sniper-bot)
+- [Pump.fun Sniper Bot](https://github.com/sol.genius.dev/pump-sniper-bot
+)
 - Meteora Sniper
 - [Solana Telegram Trading Bot](https://github.com/sol.genius.dev/solana-telegram-trading-bot)
 - [Pump.fun Bundler](https://github.com/sol.genius.dev/Solana-pumpfun-bundler)
