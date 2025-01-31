@@ -37,14 +37,14 @@ Enjoy **Teaching** Others 🎓
 
 **\*** Traing Bots **\***
 
-- [Raydium Sniper Bot](https://github.com/sol.genius.dev/solana-raydium-sniper-bot)
-- [Pump.fun Sniper Bot](https://github.com/sol.genius.dev/pump-sniper-bot)
+- [Raydium Sniper Bot](https://github.com/myato1023/solana-raydium-sniper-bot)
+- [Pump.fun Sniper Bot](https://github.com/myato1023/pump-sniper-bot)
 - Meteora Sniper
 - [Solana Telegram Trading Bot](https://github.com/sol.genius.dev/solana-telegram-trading-bot)
-- [Pump.fun Bundler](https://github.com/sol.genius.dev/Solana-pumpfun-bundler)
+- [Pump.fun Bundler](https://github.com/myato1023/Solana-pumpfun-bundler)
 - [Meteora Bundler]
-- [Raydium Volume Bot(v1, v2, v3, v4)](https://github.com/sol.genius.dev/solana-raydium-volume-bot)
-- [Pump.fun Volume Bot(v1, v2, v3, v4)](https://github.com/sol.genius.dev/Pumpfun-Volume-Bot)
+- [Raydium Volume Bot(v1, v2, v3, v4)](https://github.com/myato1023/solana-raydium-volume-bot)
+- [Pump.fun Volume Bot(v1, v2, v3, v4)](https://github.com/myato1023/Pumpfun-Volume-Bot)
 - [Meteora Volume Bot(v1, v2)](https://github.com/sol.genius.dev/Meteora-Volume-Bot)
 - [Pump.fun Comment Bot](https://github.com/sol.genius.dev/Pump.fun-comment-bot)
 - [Solana Wallet Tracking Bot](https://github.com/sol.genius.dev/solana-wallet-tracking-bot)
@@ -52,7 +52,7 @@ Enjoy **Teaching** Others 🎓
 - Arbitrage Trading Bot (Only available with validator or yellowstone RPC)
 - Raydium Market Maker Bot
 - Pump.fun Market Maker Bot
-- [Copy Trading Bot](https://github.com/sol.genius.dev/solana-copy-trading-bot)
+- [Copy Trading Bot](https://github.com/myato1023/solana-copy-trading-bot)
 - Raydium Swap Parser
 - Jupiter Swap Parser
 - Orca Swap Parser
