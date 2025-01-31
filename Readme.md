@@ -42,8 +42,7 @@ Enjoy **Teaching** Others 🎓
 - Meteora Sniper
 - [Solana Telegram Trading Bot](https://github.com/sol.genius.dev/solana-telegram-trading-bot)
 - [Pump.fun Bundler](https://github.com/sol.genius.dev/Solana-pumpfun-bundler)
-- [Raydium Bundler](https://github.com/sol.genius.dev/Solana-Raydium-Bundler)
-- [Meteora Bundler](https://github.com/sol.genius.dev/Solana-Meteora-Bundler)
+- [Meteora Bundler]
 - [Raydium Volume Bot(v1, v2, v3, v4)](https://github.com/sol.genius.dev/solana-raydium-volume-bot)
 - [Pump.fun Volume Bot(v1, v2, v3, v4)](https://github.com/sol.genius.dev/Pumpfun-Volume-Bot)
 - [Meteora Volume Bot(v1, v2)](https://github.com/sol.genius.dev/Meteora-Volume-Bot)
