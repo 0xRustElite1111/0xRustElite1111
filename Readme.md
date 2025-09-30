@@ -15,10 +15,23 @@
 
 ## ⚒️ Highlight Projects
 
-- **_AI Blockchain Agent_** – EVM & Solana integration (ONYX)
+- **_AI Blockchain Agent_** – Solana & EVM integration
 - **_DEX Tools_** – Token swap & staking on Ethereum
 - **_Copy Trading Bot_** – Real-time wallet mirroring
 - **_Raydium/Pumpfun GRPC Sniper_** – Jito bundle-based first-block buyer
 - **_Volume Bots_** – Liquidity/market cap managers for Solana DEXs
 
 ---
+## 🤝 Let's Build Together
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="geniussoldev1111@gmail.com" target="_blank">
+        <img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+
+ <!--       <a href="https://wa.me/" target="_blank"><img alt="Whatsapp"
+        src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  -->
+
+    <a href="https://t.me/@RustElite1111" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>
