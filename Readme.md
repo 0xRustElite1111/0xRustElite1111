@@ -1,8 +1,8 @@
-### 👋 Hello, I'm Sol_Geniust, Welcome to my space.
-<p> 
-    <a href="https://t.me/Rianeregoista83" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+### 👋 Hello, I'm Solgit, Welcome to my space.
+<p align="center">
+    <h1 align="center">✩&emsp;Rust & Blockchain Developer&emsp;✩</h1>
 </p>
+<br>
 
 ### 🧙‍♂️ Who am I? 🧙‍♂️
 
