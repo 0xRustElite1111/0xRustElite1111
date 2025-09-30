@@ -4,6 +4,11 @@
 </p>
 <br>
 
+## 🚀 About Me
 
+- ✨ Rust & DeFi Protocol Engineer | AI Agent Builder
+- ⚙️ DeFi Protocol Engineer & AI Agent Architect
+- 🚀 Hardcore Rust Engineer | DeFi Protocols & AI Agents
+- ✨ Protocol Engineer • AI Agent Dev • Onchain Innovator
 
 
