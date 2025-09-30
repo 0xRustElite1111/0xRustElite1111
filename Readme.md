@@ -32,6 +32,7 @@
  <!--       <a href="https://wa.me/" target="_blank"><img alt="Whatsapp"
         src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  -->
 
-    <a href="https://t.me/@RustElite1111" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/@RustElite1111" target="_blank">
+        <img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
