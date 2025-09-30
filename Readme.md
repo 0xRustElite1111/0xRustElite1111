@@ -25,7 +25,7 @@
 ## 🤝 Let's Build Together
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
-    <a href="geniussoldev1111@gmail.com" target="_blank">
+    <a href="mailto:geniussoldev1111@gmail.com" target="_blank">
         <img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
