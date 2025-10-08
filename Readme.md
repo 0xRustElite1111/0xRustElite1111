@@ -31,6 +31,6 @@
         src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
     <a href="https://discordapp.com/users/471524111512764447" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>  -->
-    <a href="https://t.me/@RustElite1111" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/@ajee1111" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
