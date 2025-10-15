@@ -1,33 +1,41 @@
 
 <p align="center">
-    <h1 align="center">✩&emsp;Rust & Blockchain Engineer&emsp;✩</h1>
+    <h1 align="center">✩&emsp;Blockchain Full-Stack Engineer | Rust Specialist&emsp;✩</h1>
 </p>
 <br>
 
-## 🚀 About Me
+## ⚙️ Core Skills
 
-- ✨ Rust & DeFi Protocol Engineer | AI Agent Builder
-- ⚙️ DeFi Protocol Engineer & AI Agent Architect
-- 🚀 Hardcore Rust Engineer | DeFi Protocols & AI Agents
-- ✨ Protocol Engineer • AI Agent Dev • Onchain Innovator
+- ### Languages: Rust, TypeScript, JavaScript, C/C++, Python
 
----
+- ### Blockchain: Solana (Anchor), Ethereum (Solidity, Hardhat), Web3.js, Ethers.js
 
-## ⚒️ Highlight Projects
+- ### Backend: Axum, Actix, Node.js, Express
 
-- **_AI Blockchain Agent_** – Solana & EVM integration
-- **_DEX Tools_** – Token swap & staking on Ethereum
-- **_Copy Trading Bot_** – Real-time wallet mirroring
-- **_Raydium/Pumpfun GRPC Sniper_** – Jito bundle-based first-block buyer
-- **_Volume Bots_** – Liquidity/market cap managers for Solana DEXs
+- ### Frontend: Next.js, React, Tailwind CSS
+
+- ### Databases: MongoDB, PostgreSQL
+
+- ### Dev Tools: Git, Docker, VS Code, Linux
 
 ---
+## 🚀 Selected Projects
+
+- ### Solana Liquidity Platform — Anchor Framework
+Developed and optimized on-chain liquidity pools, LP token minting with metadata, and cross-program interactions in Rust.
+
+- ### Multi-Chain Token Deployment Platform (Solana + EVM)
+Built a cross-chain token deployment engine with a Rust backend API and a Next.js dApp interface.
+
+- ### NFT Marketplace with On-Chain Metadata
+Implemented a decentralized NFT minting and trading platform using Rust programs, Node.js APIs, and a responsive Next.js frontend.
+
 ## 🤝 Let's Build Together
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
-     <a href="https://x.com/_rustelite1111" target="_blank"><img alt="Twitter"
+    <!--  <a href="https://x.com/_rustelite1111" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <!--       <a href="https://wa.me/" target="_blank"><img alt="Whatsapp"
+        <a href="https://wa.me/" target="_blank"><img alt="Whatsapp"
         src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
     <a href="https://discordapp.com/users/471524111512764447" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>  -->
