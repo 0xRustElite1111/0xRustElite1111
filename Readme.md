@@ -25,7 +25,7 @@
 ## 🤝 Let's Build Together
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
-     <a href="https://x.com/" target="_blank"><img alt="Twitter"
+     <a href="https://x.com/_rustelite1111" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <!--       <a href="https://wa.me/" target="_blank"><img alt="Whatsapp"
         src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
