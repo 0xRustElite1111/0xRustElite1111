@@ -12,7 +12,7 @@
 
 - ### Backend: Axum, Actix, Node.js, Express
 
-- ### Frontend: Next.js, React, Tailwind CSS
+- ### Frontend: Next.js, React, Vue, Tailwind CSS
 
 - ### Databases: MongoDB, PostgreSQL
 
