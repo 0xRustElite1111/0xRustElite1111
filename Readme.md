@@ -28,7 +28,8 @@ Developed and optimized on-chain liquidity pools, LP token minting with metadata
 Built a cross-chain token deployment engine with a Rust backend API and a Next.js dApp interface.
 
 - ### NFT Marketplace with On-Chain Metadata
-Implemented a decentralized NFT minting and trading platform using Rust programs, Node.js APIs, and a responsive Next.js frontend.-->
+Implemented a decentralized NFT minting and trading platform using Rust programs, Node.js APIs, and a responsive Next.js frontend.
+-->
 
 ## 🤝 Let's Build Together
 
