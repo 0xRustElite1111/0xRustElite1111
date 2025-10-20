@@ -18,7 +18,7 @@
 
 - ### Dev Tools: Git, Docker, VS Code, Linux
 
-  <!-- ---
+ ---
 ## 🚀 Selected Projects
 
 - ### Solana Liquidity Platform — Anchor Framework
@@ -29,7 +29,7 @@ Built a cross-chain token deployment engine with a Rust backend API and a Next.j
 
 - ### NFT Marketplace with On-Chain Metadata
 Implemented a decentralized NFT minting and trading platform using Rust programs, Node.js APIs, and a responsive Next.js frontend.
--->
+
 
 ## 🤝 Let's Build Together
 
