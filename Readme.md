@@ -52,7 +52,3 @@ My passion lies in **DeFi protocol architecture**, **smart contract integration*
 </p>
 
 ---
-
-<p align="center">
-  <em>“Code is temporary, but architecture is eternal.”</em>
-</p>
