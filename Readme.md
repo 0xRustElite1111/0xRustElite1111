@@ -1,6 +1,6 @@
 
 <p align="center">
-    <h1 align="center">✩&emsp;Blockchain Full-Stack Engineer | Rust Specialist&emsp;✩</h1>
+    <h1 align="center">✩&emsp;Blockchain Full-Stack Engineer&emsp;✩</h1>
 </p>
 <br>
 
