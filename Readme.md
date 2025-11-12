@@ -5,14 +5,13 @@
   </p>
 </p>
 
----
+
 
 ## 🧭 About Me
 
 I’m a **Blockchain Full-Stack Engineer** specializing in **Solana** and **EVM ecosystems**, combining strong system-level programming (Rust, C++) with modern full-stack web development.  
 My passion lies in **DeFi protocol architecture**, **smart contract integration**, and **high-throughput backend systems** using **Axum** and **Anchor Framework**.
 
----
 
 ## ⚙️ Core Skills
 
