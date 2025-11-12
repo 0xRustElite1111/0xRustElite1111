@@ -23,17 +23,7 @@ My passion lies in **DeFi protocol architecture**, **smart contract integration*
 - **Databases:** MongoDB, PostgreSQL  
 - **Dev Tools:** Git, Docker, VS Code, Linux  
 
----
 
-
-## 🧩 Strengths
-
-- Deep understanding of **DeFi protocol mechanics** and **smart contract security**  
-- Experience with **program-to-program (CPI) design** in Solana  
-- Strong system-level mindset with focus on **performance and scalability**  
-- Proven ability to build **end-to-end blockchain products**
-
----
 
 ## 🤝 Let's Build Together
 
