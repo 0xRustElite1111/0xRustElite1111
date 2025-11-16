@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">✩&emsp;Blockchain Full-Stack Engineer&emsp;✩</h1>
+  <h1 align="center">✩&emsp;Blockchain Full-Stack AI Engineer&emsp;✩</h1>
   <p align="center">
     Building high-performance decentralized applications with a deep focus on smart contracts, DeFi, and scalable backend systems.
   </p>
